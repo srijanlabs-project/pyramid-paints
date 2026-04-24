@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 224" role="img" aria-labelledby="title desc">
+  <title id="title">Pyramid Paints Logo</title>
+  <desc id="desc">Rounded square containing an orange pyramid shape.</desc>
+  <rect x="20" y="12" width="216" height="176" rx="18" fill="#dddddd" stroke="#151515" stroke-width="4"/>
+  <polygon points="108,20 35,146 115,164" fill="#f9894a"/>
+  <polygon points="108,20 115,164 201,126" fill="#f66f3f"/>
+  <polygon points="108,20 108,20 115,164" fill="#f79245"/>
+</svg>
